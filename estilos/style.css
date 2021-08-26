@@ -1,0 +1,24 @@
+h1,h2,li,p,hr {
+    color: whitesmoke;
+}
+
+body,html{
+    height: 100%;
+    margin: 0;
+}
+
+.bg{
+    background-image:url("ceuestrelado.jpg");
+
+}
+
+html {font-size: 20px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+    font-family: font-family: 'Kaisei Decol', serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+}
+
+h1 {
+    margin: 10;
+    padding: 20px 10;
+    color: #FFFFFF;   
+}
+    
